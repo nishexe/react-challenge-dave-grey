@@ -1,0 +1,8 @@
+.buttonClass {
+  width: 500px;
+  height: 500px;
+  cursor: pointer;
+  margin: none;
+  padding: none;
+  font-size: 40px;
+}
